@@ -1,0 +1,70 @@
+[
+
+
+    {
+        "name": "Html,Css and js Projects Website",
+        "desc": "This website is specially build in my semester project. this project promote the tourism in the Pakistan.",
+        "image": "jspro",
+        "category": "basicweb",
+        "links": {
+            "view": "#",
+            "code": "https://github.com/mussaddiq787/Touring-websites/tree/main/PAF-IAST%20Tourist%20Websits/Tour"
+        }
+    },
+
+
+    {
+        "name": "Portfolio Website",
+        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+        "image": "portfolio1",
+        "category": "basicweb",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Fire house gym Website",
+        "desc": "This website is made for the practise. This project is done in wordpress.",
+        "image": "firehouse",
+        "category": "basicweb",
+        "links": {
+            "view": "https://gymwithmussaddiq.wordpress.com/",
+            "code": "#"
+        }
+    },
+
+    {
+        "name": "Link List",
+        "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
+        "image": "linklist",
+        "category": "basicweb",
+        "links": {
+            "view": "https://jigar-sable.github.io/LinkList",
+            "code": "https://github.com/jigar-sable/LinkList"
+        }
+    },
+
+
+    {
+        "name": "Foodicious",
+        "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+        "image": "foodicious",
+        "category": "basicweb",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Food Website",
+        "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+        "image": "foodwebsite",
+        "category": "basicweb",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    }
+
+]
